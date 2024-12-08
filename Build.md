@@ -27,3 +27,15 @@ Substep 2: Make a edit of one of the blank truth bullets from the repository. Th
 
 Step 5: Scripting
 
+In Sprite1, on the when I receive start block add as many of the script block as you need.
+
+Here's a picture of what all the Fields mean.
+
+![Field picture](https://github.com/ikyih/tap/blob/main/Screenshot%202024-12-08%20at%2012.33.55%E2%80%AFPM.png?raw=true)
+
+Step 6: Setting the counter.
+
+Substep 1: Upload your counter to Youtube.com. get the video id from the url.
+
+
+
