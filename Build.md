@@ -15,4 +15,4 @@ Substep 1: Go into Sprite2 Costumes and make name tags for your characters.
 
 Substep 2: Go into the code and make one of these
 
-![The Blocks](https://example.com/your-svg-file.svg)
+![The Blocks](https://github.com/ikyih/tap/raw/refs/heads/main/block_12_8_2024-12_02_28%20PM.svg)
