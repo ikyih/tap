@@ -37,7 +37,7 @@ Step 6: Setting the counter.
 
 Substep 1: Upload your counter to Youtube.com. get the video id from the url.
 
-Substep 2: On ShootingText change the vid in ![vid spot](https://github.com/ikyih/tap/raw/refs/heads/main/block_12_8_2024-12_43_18%20PM.svg) to your counter video id.
+Substep 2: On ShootingText change the vid in ![vid spot](https://github.com/ikyih/tap/raw/refs/heads/main/block_12_8_2024-12_43_18%20PM.svg) to your counter video id. Setting the Agree video is the same process with the block under it.
 
 You are done.
 
